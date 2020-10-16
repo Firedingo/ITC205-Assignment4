@@ -21,3 +21,21 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+# Word Files
+~$g 1 UAT.docx
+*.tmp
+
+# Eclipse Files
+.classpath
+.project
+
+# Project Files
+calendar.obj
+library.obj
+
+# My Files
+Assignment4GuideNotes.txt
+/bin/
+
+Test Scenario FAT Template.docx

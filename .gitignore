@@ -25,6 +25,7 @@ hs_err_pid*
 # Word Files
 ~$g 1 UAT.docx
 *.tmp
+~$*
 
 # Eclipse Files
 .classpath

@@ -213,7 +213,7 @@ public class Library implements Serializable, ILibrary {
 		IBook book = loan.getBook();
 
 		double overDueFine = calculateOverDueFine(loan);
-		patron.incurFine(overDueFine);
+		
 
 		Integer bookId = book.getId();
 		if (isDamaged) {

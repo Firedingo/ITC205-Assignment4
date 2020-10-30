@@ -6,7 +6,7 @@ public interface ILibrary {
 
 	static final int LOAN_LIMIT = 2;
 	static final int LOAN_PERIOD = 2;
-	static final double FINE_PER_DAY = 1.0;
+	static final double FINE_PER_DAY = 2.0;
 	static final double MAX_FINES_OWED = 1.0;
 	static final double DAMAGE_FEE = 2.0;
 
